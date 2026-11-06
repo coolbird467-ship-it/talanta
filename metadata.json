@@ -1,0 +1,6 @@
+{
+  "name": "Talanta Sports City - Bayern vs Ajax Match Tickets",
+  "description": "Official ticketing portal for FC Bayern Munich vs AFC Ajax Amsterdam at Raila Odinga International Stadium (Talanta Sports City), Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
